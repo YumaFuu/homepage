@@ -12,7 +12,7 @@
       <link>//localhost:8000/blog/init/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>//localhost:8000/blog/init/</guid>
-      <description>&lt;h1 id=&#34;はじめました&#34;&gt;はじめました&lt;/h1&gt;&#xA;&lt;p&gt;Hugoで作りました&lt;/p&gt;</description>
+      <description>&lt;h1 id=&#34;はじめました&#34;&gt;はじめました&lt;/h1&gt;&#xA;&lt;p&gt;Hugoでブログを作りました&lt;/p&gt;&#xA;&lt;p&gt;便利ですね&lt;/p&gt;&#xA;&lt;p&gt;ジャンルにこだらず色々書いていきます!&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

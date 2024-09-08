@@ -4,8 +4,11 @@
 author:
   name: "Yuma Ishikawa"
   image: me.jpeg
-  greeting: "🍶 🐳 ⚽"
-  icon: ":wave:"
+  greeting: |
+    Hi there!
+
+    🍶 🐳 ⚽
+  icon: ":beer:"
 
 ############################
 ## Links
@@ -15,7 +18,7 @@ links:
   - github: https://github.com/yumafuu
   - x-twitter: https://x.com/yuma_katameoome
   - facebook: https://www.facebook.com/yuma.ishikawa.927/
-  - c-zenn: https://zenn.dev/yumafuu
+  - zenn: https://zenn.dev/yumafuu
 
 ################################
 ### OpenGraph & Twitter Cards

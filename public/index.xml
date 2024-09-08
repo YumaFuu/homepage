@@ -12,14 +12,14 @@
       <link>//localhost:8000/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>//localhost:8000/about/</guid>
-      <description>&lt;p&gt;バックエンド、インフラ、SRE、Platform Engineeringに関心があるソフトウェアエンジニアです。&lt;/p&gt;&#xA;&lt;p&gt;AWSやコンテナ技術を駆使し、CI/CD、モニタリング基盤の構築など、開発から運用まで幅広い領域をカバーしています。&lt;/p&gt;&#xA;&lt;p&gt;Zennでの記事執筆や、GitHubでのOSS開発など、積極的に技術についてのアウトプットも行っています。&lt;/p&gt;&#xA;&lt;p&gt;自動化・効率化が大好きで、DevOpsのプラクティスを積極的にプロジェクトに導入しています。&lt;/p&gt;</description>
+      <description>&lt;h2 id=&#34;work&#34;&gt;Work&lt;/h2&gt;&#xA;&lt;p&gt;バックエンド、インフラ、SRE、Platform Engineeringに関心があるソフトウェアエンジニアです。&lt;/p&gt;&#xA;&lt;h2 id=&#34;hobby&#34;&gt;Hobby&lt;/h2&gt;&#xA;&lt;h3 id=&#34;sake&#34;&gt;Sake&lt;/h3&gt;&#xA;&lt;p&gt;日本酒と焼酎とビールが好きです。&lt;/p&gt;&#xA;&lt;h3 id=&#34;ramen&#34;&gt;Ramen&lt;/h3&gt;&#xA;&lt;p&gt;家系ラーメンが好きです。&lt;/p&gt;&#xA;&lt;h3 id=&#34;manga&#34;&gt;Manga&lt;/h3&gt;&#xA;&lt;p&gt;スラムダンクとバガボンドだけめちゃくちゃ好きです。&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
       <link>//localhost:8000/blog/init/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>//localhost:8000/blog/init/</guid>
-      <description>&lt;h1 id=&#34;はじめました&#34;&gt;はじめました&lt;/h1&gt;&#xA;&lt;p&gt;Hugoで作りました&lt;/p&gt;</description>
+      <description>&lt;h1 id=&#34;はじめました&#34;&gt;はじめました&lt;/h1&gt;&#xA;&lt;p&gt;Hugoでブログを作りました&lt;/p&gt;&#xA;&lt;p&gt;便利ですね&lt;/p&gt;&#xA;&lt;p&gt;ジャンルにこだらず色々書いていきます!&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
