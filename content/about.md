@@ -10,9 +10,49 @@ icon: ":sake:"
 ---
 
 
+ソフトウェアエンジニアです。
+
+バックエンド、インフラ、SRE、Platform Engineeringに関心があります。
+
+---
+
 ## Work
 
-バックエンド、インフラ、SRE、Platform Engineeringに関心があるソフトウェアエンジニアです。
+### Skills
+
+```
+- vim
+- Ruby
+- Go
+- TypeScript
+- Deno
+- AWS
+- Amazon ECS
+- Terraform
+- Docker
+- GitHub Actions
+
+```
+
+### Tools
+
+```
+- NeoVim
+```
+
+[Neovim the Song (10X Developer) - YouTube](https://www.youtube.com/watch?v=sdZTiIu-j2g)
+
+### Experience
+
+- [株式会社ispec](https://ispec.tech/)
+
+2019/10 ~ 2024/10
+
+VPoEとして開発業務に従事しました。
+
+主にRuby,Goを用いたバックエンド開発とAWSを用いたインフラ構築を行いました。
+
+---
 
 ## Hobby
 
@@ -20,11 +60,84 @@ icon: ":sake:"
 
 日本酒と焼酎とビールが好きです。
 
+日本酒は甘いやつが好きです。
+
+焼酎は水割りかお湯わりに梅干し入れて飲むのが好きです。
+
+米焼酎はソーダで割るのも好きです。
+
+### Cooking
+
+料理が好きです。
+
+中華が好きで中華鍋を持っています。
+
 ### Ramen
 
 家系ラーメンが好きです。
 
+直系店のような醤油バチバチ系が特に好きです。
+
+お好みは固め・多めかコレステロールを気にして固めです。
+
 ### Manga
 
-スラムダンクとバガボンドだけめちゃくちゃ好きです。
+スラムダンクとバガボンドが好きです。
 
+つまり井上雄彦先生が好きです。
+
+### Game
+
+リフレッシュにゲームをやります。
+
+PS5でApex Legends、Valorant、FIFAをやっています。
+
+### WorkOut
+
+HIITのジムに通っています。
+
+たまに競技場に走りに行きます。
+
+たまにフットサルもやります。
+
+### FootBall
+
+欧州サッカーのにわかファンです。
+
+ハイライトでキャッチアップしています。
+
+E A sports. It's in the game.
+
+### Music
+
+ジャンルは問いませんが、邦楽が好きです。
+
+```
+- 野狐禅
+- 神門
+- 狐火
+- ブルーハーツ
+- 銀杏BOYZ
+- サザンオールスターズ
+- Mongol800
+- andymori
+- ザ・マスミサイル
+- ユニコーン
+- サンボマスター
+- ちあきなおみ
+- 石川さゆり
+- ノリアキ
+```
+
+### Owarai
+
+お笑いが好きです。
+
+ジャルジャルタワーは毎日見ています。
+
+
+### Inu
+
+犬が好きです。
+
+可愛いからです。

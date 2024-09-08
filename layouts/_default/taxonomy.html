@@ -1,0 +1,11 @@
+{{ define "main" }}
+<main>
+  <div>
+   <h1>{{ .Title }}</h1>
+   <!-- 特定のタクソノミー用語に関連する各コンテンツファイルを範囲指定し、summary.html コンテンツビューをレンダリングします -->
+    {{ range .Pages }}
+        {{ .Render "summary" }}
+    {{ end }}
+  </div>
+</main>
+{{ end }}

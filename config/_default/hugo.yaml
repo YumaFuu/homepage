@@ -7,4 +7,4 @@ custom_css:
 ############################
 
 enableEmoji: true
-disableKinds: ['taxonomy', 'term']
+# disableKinds: ['taxonomy', 'term']
