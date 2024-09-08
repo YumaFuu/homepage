@@ -1,3 +1,8 @@
+---
+title: "Hello World"
+date: 2024-09-08
+draft: false
+---
 # はじめました
 
 Hugoでブログを作りました

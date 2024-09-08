@@ -6,11 +6,12 @@
     <description>Recent content in Blogs on Yuma&#39;s page</description>
     <generator>Hugo</generator>
     <language>en</language>
+    <lastBuildDate>Sun, 08 Sep 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="//localhost:8000/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title></title>
+      <title>Hello World</title>
       <link>//localhost:8000/blog/init/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 08 Sep 2024 00:00:00 +0000</pubDate>
       <guid>//localhost:8000/blog/init/</guid>
       <description>&lt;h1 id=&#34;はじめました&#34;&gt;はじめました&lt;/h1&gt;&#xA;&lt;p&gt;Hugoでブログを作りました&lt;/p&gt;&#xA;&lt;p&gt;便利ですね&lt;/p&gt;&#xA;&lt;p&gt;ジャンルにこだらず色々書いていきます!&lt;/p&gt;</description>
     </item>
