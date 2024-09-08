@@ -1,0 +1,10 @@
+title: Yuma's page
+custom_css:
+  - "assets/css/icon.css"
+
+############################
+## MISC
+############################
+
+enableEmoji: true
+disableKinds: ['taxonomy', 'term']
