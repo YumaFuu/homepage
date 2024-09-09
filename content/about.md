@@ -42,8 +42,6 @@ icon: ":sake:"
 
 [Neovim the Song (10X Developer) - YouTube](https://www.youtube.com/watch?v=sdZTiIu-j2g)
 
-to visit GeeksForGeeks website.
-
 
 ### Experience
 
