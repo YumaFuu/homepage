@@ -42,11 +42,14 @@ icon: ":sake:"
 
 [Neovim the Song (10X Developer) - YouTube](https://www.youtube.com/watch?v=sdZTiIu-j2g)
 
+to visit GeeksForGeeks website.
+
+
 ### Experience
 
 - [株式会社ispec](https://ispec.tech/)
 
-2019/10 ~ 2024/10
+2019/10 ~ 2024/9
 
 VPoEとして開発業務に従事しました。
 
@@ -100,13 +103,13 @@ HIITのジムに通っています。
 
 たまにフットサルもやります。
 
+
 ### FootBall
 
 欧州サッカーのにわかファンです。
 
 ハイライトでキャッチアップしています。
 
-E A sports. It's in the game.
 
 ### Music
 
