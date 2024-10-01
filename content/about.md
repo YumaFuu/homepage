@@ -45,6 +45,12 @@ icon: ":sake:"
 
 ### Experience
 
+- [株式会社ナレッジワーク](https://kwork.studio)
+
+2024/10 ~
+
+Software Engineerとして開発業務に従事しています。
+
 - [株式会社ispec](https://ispec.tech/)
 
 2019/10 ~ 2024/9
@@ -164,4 +170,4 @@ HIITのジムに通っています。
 
 可愛いからです。
 
-{{< video "https://i.gyazo.com/36e6d25e0240c0ab83f38c08a4c403e8.mp4" "my-5" >}}
+{{< video "https://i.gyazo.com/36e6d25e0240c0ab83f38c08a4c403e8.mp4" >}}
