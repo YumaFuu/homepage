@@ -164,4 +164,4 @@ HIITのジムに通っています。
 
 可愛いからです。
 
-[![Image from Gyazo](https://i.gyazo.com/36e6d25e0240c0ab83f38c08a4c403e8.gif)](https://gyazo.com/36e6d25e0240c0ab83f38c08a4c403e8)
+{{< video "https://i.gyazo.com/36e6d25e0240c0ab83f38c08a4c403e8.mp4" "my-5" >}}
